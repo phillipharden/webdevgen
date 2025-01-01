@@ -2,18 +2,18 @@
 </br>
 
 
-##HTML
+## HTML
 
 [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 
 
-##CSS
+## CSS
 [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-##Colors
+## Colors
 
-###Color Theory
+### Color Theory
 
 Helpful Color Harmony Links:
 
@@ -33,7 +33,7 @@ Helpful Color Harmony Links:
 * [Adobe Capture CC](https://www.adobe.com/products/capture.html)
 
 
-###Color Connotations
+### Color Connotations
 
 
 Have you ever wondered how popular color
@@ -77,19 +77,19 @@ standard connotations.
 [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-##jQuery
+## jQuery
 
 
 
-##Unix Command Line
+## Unix Command Line
 
 
 
-##EJS
+## EJS
 
 
 
-##Git, GitHub & Version Control
+## Git, GitHub & Version Control
 
 
 
@@ -97,31 +97,31 @@ standard connotations.
 
 
 
-##Databases
+## Databases
 
 
 
-##SQL
+## SQL
 
 
 
-##PostgreSQL
+## PostgreSQL
 
 
 
-##Authentication & Security
+## Authentication & Security
 
 
 
-##React.js
+## React.js
 
 
 
-##MySQL
+## MySQL
 
 
 
-##MongoDB
+## MongoDB
 
 
 
